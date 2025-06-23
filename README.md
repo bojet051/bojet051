@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ely — Full Stack Software & AI Engineer
+# Hello, I'm Ely — Full Stack Software & AI Engineer
 
 🎓 Master of Engineering in Artificial Intelligence  
 🏛️ University of the Philippines Diliman  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate engineer blending full-stack development with machine intelligence to build impactful, scalable solutions. From crafting modern web apps with React, MongoDB, and Node.js to deploying intelligent models with Python and cutting-edge AI tools — I bring ideas to life.
 
@@ -15,7 +15,7 @@ Currently leading transformative projects in **environmental compliance**, **sma
 
 ---
 
-## 🧠 Tech Stack & Toolbelt
+##  Tech Stack & Toolbelt
 
 **Languages**  
 Python | JavaScript/TypeScript | SQL | HTML/CSS | Bash
@@ -28,7 +28,7 @@ MongoDB | PostgreSQL | Docker | GitHub Actions | VSCode | Jupyter | Google Cloud
 
 ---
 
-## 🧩 Current Focus
+##  Current Focus
 
 - 📈 Building a Learning & Development HR app with role-based dashboards and Google Sign-In
 - 🐔 Developing smart biosecurity systems in poultry farms using AI + IoT
@@ -37,7 +37,7 @@ MongoDB | PostgreSQL | Docker | GitHub Actions | VSCode | Jupyter | Google Cloud
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 Let's build something meaningful together.  
 🔗 GitHub: [@bojet051](https://github.com/bojet051)  
